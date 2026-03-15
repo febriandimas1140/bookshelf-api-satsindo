@@ -1,0 +1,5 @@
+node_modules/
+database/bookshelf.sqlite
+.env
+*.log
+.DS_Store
